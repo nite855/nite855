@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-#introduction
+## introduction
 a prospective programmer who is learning slowly
+
+## language
+- python
+- c
+- c++
+- java(study)
 
 
 <!--
