@@ -6,16 +6,19 @@
 
 ## introduction
  a prospective programmer who is learning slowly
+ 
  개발자를 목표로 하는 아직 미숙한 학생입니다.
+ 
  부족하지만, 하나씩, 천천히
+
+
+ 
 
 ## language
 - python
 - c
 - c++
 - java(study)
-
-- 
 
 
 <!--
