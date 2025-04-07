@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+#introduction
+a prospective programmer who is learning slowly
+
+
 <!--
 **nite855/nite855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
