@@ -1,13 +1,21 @@
 ## Hi there 👋
+# welcome to my profile!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nite855)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## introduction
-a prospective programmer who is learning slowly
+ a prospective programmer who is learning slowly
+ 개발자를 목표로 하는 아직 미숙한 학생입니다.
+ 부족하지만, 하나씩, 천천히
 
 ## language
 - python
 - c
 - c++
 - java(study)
+
+- 
 
 
 <!--
